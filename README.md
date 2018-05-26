@@ -13,13 +13,13 @@
 
 [TOC]
 
-## Preparation de l'apptlication
+## Preparation de l'application
 <div align="center" >
 <img src="https://github.com/GueddouChaouki/Google-Calendar-AWS/blob/master/Totu/AWS1.gif" width="980">
 </div>
 
 
-## Preparation de l'apptlication
+## Démonstration de l'apptlication
 <div align="center" >
 <img src="https://github.com/GueddouChaouki/Google-Calendar-AWS/blob/master/Totu/AWS2.gif" width="980">
 </div>
