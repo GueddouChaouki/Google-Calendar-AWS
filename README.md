@@ -18,7 +18,9 @@
 
 
 <img src="https://github.com/GueddouChaouki/Google-Calendar-AWS/blob/master/Totu/AWS1.gif" width="280">
+</div>
 
+<div align="center" >
 
 <img src="https://github.com/GueddouChaouki/Google-Calendar-AWS/blob/master/Totu/AWS2.gif" width="280">
 
