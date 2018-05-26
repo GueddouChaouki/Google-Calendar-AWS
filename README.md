@@ -13,6 +13,19 @@
 
 [TOC]
 
+## Demo
+<div align="center" >
+
+
+<img src="https://github.com/GueddouChaouki/Google-Calendar-AWS/blob/master/Totu/AWS1.gif" width="280">
+
+
+<img src="https://github.com/GueddouChaouki/Google-Calendar-AWS/blob/master/Totu/AWS2.gif" width="280">
+
+
+</div>
+
+
 ## Présentation global de l'application
 Ce projet consiste en le développement d'une application web, "un calendrier". Les technologies utilisées pour le réaliser sont EJS, CSS, JavaScript, node.js, et une base de données no sql avec  MongoDb.
 ##  Fonctionnalités de l'application
